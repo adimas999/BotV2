@@ -21,6 +21,19 @@
 </P>
 </P>
 
+### Bot V1
+- [BotV1](https://github.com/adimas999/BotV1)
+
+### Bot V2
+- [BotV2](https://github.con/adimas999/BotV2)
+
+### Bot V3
+- [BotV3](https://github.com/adimas999/BotV3)
+
+### Termux Telegram Bot(Coming Soon)
+- [Telegram-Bot](https://github.com/adimas999/telegram-bot)
+
+
 ## Information
 
 #### This script is open to anyone! If you want to add commands, please contribute / pull request! Buying and selling scripts is prohibited!
