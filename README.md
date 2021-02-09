@@ -30,7 +30,7 @@
 ### Bot V3
 - [BotV3](https://github.com/adimas999/BotV3)
 
-### Termux Telegram Bot(Coming Soon)
+### Termux Telegram Bot
 - [Telegram-Bot](https://github.com/adimas999/telegram-bot)
 
 
